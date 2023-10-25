@@ -20,4 +20,3 @@ cv2.imwrite(destination, output)
 cv2.imshow("Resized Image_Quality check", src)
 cv2.waitKey(0)
 
-# I will learn django make it use-able for website & other multiple stuffs
